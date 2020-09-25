@@ -1,2 +1,2 @@
 # Node-CRUD
-A simple CRUD with NodeJs using Express and mongoDB
+A simple CRUD with NodeJs and Express.
